@@ -3,7 +3,7 @@ import Logo from "../assets/171_Logo.svg";
 import Box from "@mui/material/Box";
 import searchIcon from "../assets/ICON_S1.svg";
 import caseIcon from "../assets/ICON_T1.svg";
-import { Button } from "react-scroll";
+import { Link } from "react-router-dom";
 
 const JoinPage = () => {
   return (
@@ -24,6 +24,8 @@ const JoinPage = () => {
         sx={{ height: "43px", width: "185px" }}
       />
       <Box
+        component={Link}
+        to="/register"
         sx={{
           height: "548px",
           width: "1139px",
@@ -35,6 +37,8 @@ const JoinPage = () => {
           flexDirection: "column",
           justifyContent: "center",
           alignItems: "center",
+          textDecoration: "none",
+          color: "inherit",
         }}
       >
         <Box
