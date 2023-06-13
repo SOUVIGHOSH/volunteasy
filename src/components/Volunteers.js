@@ -47,7 +47,7 @@ const Volunteer = () => {
               textDecoration: "none",
               color: "#FFFFFF",
             }}
-            to="/join"
+            to="/volunteasy/join"
           >
             Get Started
           </Box>

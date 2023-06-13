@@ -128,7 +128,7 @@ const Intro = () => {
                 textDecoration: "none",
                 color: "#FFFFFF",
               }}
-              to="/join"
+              to="/volunteasy/join"
             >
               Join Now
             </Box>

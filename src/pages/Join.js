@@ -25,7 +25,7 @@ const JoinPage = () => {
       />
       <Box
         component={Link}
-        to="/register"
+        to="/volunteasy/register"
         sx={{
           height: "548px",
           width: "1139px",

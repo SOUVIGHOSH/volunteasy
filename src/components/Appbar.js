@@ -86,7 +86,7 @@ function ResponsiveAppBar() {
                   textDecoration: "none",
                   color: "#FFFFFF",
                 }}
-                to="/join"
+                to="/volunteasy/join"
               >
                 Sign Up
               </Box>
