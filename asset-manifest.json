@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/volunteasy/static/css/main.213689a9.css",
+    "main.js": "/volunteasy/static/js/main.8cae0e05.js",
+    "static/js/787.e068c584.chunk.js": "/volunteasy/static/js/787.e068c584.chunk.js",
+    "static/media/Frame47.svg": "/volunteasy/static/media/Frame47.78bce15773875a80e43c0d1439515941.svg",
+    "static/media/Frame4.svg": "/volunteasy/static/media/Frame4.96ecfc9cd64b235613ec63c88d00dc5c.svg",
+    "static/media/icon_a1.svg": "/volunteasy/static/media/icon_a1.9a99e7a010ff422cb5a99bb2c7330ca7.svg",
+    "static/media/Frame46.svg": "/volunteasy/static/media/Frame46.3f4e5c0df1ff2a122188deb6feaab1eb.svg",
+    "static/media/171_Logo.svg": "/volunteasy/static/media/171_Logo.4acd16e7a90aca0661c61d42dbf6ddab.svg",
+    "static/media/logo.svg": "/volunteasy/static/media/logo.cb2ea8ab0479c424694ee15372298e66.svg",
+    "static/media/easy.svg": "/volunteasy/static/media/easy.215fce40bf59d33c92e8d3b582bde0c7.svg",
+    "static/media/ICON_S1.svg": "/volunteasy/static/media/ICON_S1.631af2f350843195829063938a4d2aea.svg",
+    "static/media/ICON_T1.svg": "/volunteasy/static/media/ICON_T1.3cd4fa0d5e1bddb1864c432ae1a975bb.svg",
+    "index.html": "/volunteasy/index.html",
+    "main.213689a9.css.map": "/volunteasy/static/css/main.213689a9.css.map",
+    "main.8cae0e05.js.map": "/volunteasy/static/js/main.8cae0e05.js.map",
+    "787.e068c584.chunk.js.map": "/volunteasy/static/js/787.e068c584.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.213689a9.css",
+    "static/js/main.8cae0e05.js"
+  ]
+}
