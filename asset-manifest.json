@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/volunteasy/static/css/main.213689a9.css",
-    "main.js": "/volunteasy/static/js/main.0b15a500.js",
+    "main.js": "/volunteasy/static/js/main.1a9dd809.js",
     "static/js/787.e068c584.chunk.js": "/volunteasy/static/js/787.e068c584.chunk.js",
     "static/media/Frame47.svg": "/volunteasy/static/media/Frame47.78bce15773875a80e43c0d1439515941.svg",
     "static/media/Frame4.svg": "/volunteasy/static/media/Frame4.96ecfc9cd64b235613ec63c88d00dc5c.svg",
@@ -14,11 +14,11 @@
     "static/media/ICON_T1.svg": "/volunteasy/static/media/ICON_T1.3cd4fa0d5e1bddb1864c432ae1a975bb.svg",
     "index.html": "/volunteasy/index.html",
     "main.213689a9.css.map": "/volunteasy/static/css/main.213689a9.css.map",
-    "main.0b15a500.js.map": "/volunteasy/static/js/main.0b15a500.js.map",
+    "main.1a9dd809.js.map": "/volunteasy/static/js/main.1a9dd809.js.map",
     "787.e068c584.chunk.js.map": "/volunteasy/static/js/787.e068c584.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.213689a9.css",
-    "static/js/main.0b15a500.js"
+    "static/js/main.1a9dd809.js"
   ]
 }
